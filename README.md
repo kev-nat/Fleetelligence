@@ -154,7 +154,7 @@ To use it:
 - Open the bedrock_utils.py file and the following function:
   - valid_prompt
 
-  Hint: categorize the user prompt
+  Note: categorize the user prompt
 
 ## Troubleshooting
 
